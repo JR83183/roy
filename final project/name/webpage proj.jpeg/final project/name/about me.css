@@ -1,0 +1,26 @@
+.intro-button{
+    background-color: antiquewhite;
+    color:green;
+    border:none;
+    height: 50px;
+    width: 300px;
+    cursor: pointer;
+    
+}
+.profile-pic{
+    display: inline block;
+    justify-content: center;
+    width: 300px;
+
+    
+}
+.profile-name,
+.profile-stat{
+
+    font-family: "Roboto", Arial;
+    font-weight: bold;
+    font-size: 15px;
+    width: 200px;
+    display: block;
+
+}
